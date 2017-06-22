@@ -35,7 +35,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['taylorzr@gmail.com', 'tim.mertens@avant.com']
 
   spec.summary       = %q{Timecop time-machines for RSpec}
-  spec.homepage      = 'https://github.com/avantcredit/timecop-rspec'
+  spec.homepage      = 'https://github.com/avantoss/timecop-rspec'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|

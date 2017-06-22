@@ -1,6 +1,6 @@
 # Timecop::Rspec
 
-[Timecop::Rspec](https://github.com/avantcredit/timecop-rspec) provides [Timecop](https://github.com/travisjeffery/timecop) time-machines for [RSpec](https://github.com/rspec/rspec) that allow you to time-travel test examples, context/describes, and/or your entire test suite.
+[Timecop::Rspec](https://github.com/avantoss/timecop-rspec) provides [Timecop](https://github.com/travisjeffery/timecop) time-machines for [RSpec](https://github.com/rspec/rspec) that allow you to time-travel test examples, context/describes, and/or your entire test suite.
 
 ## Installation
 
@@ -141,7 +141,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/avantcredit/timecop-rspec.
+Bug reports and pull requests are welcome on GitHub at https://github.com/avantoss/timecop-rspec.
 
 ## License
 
